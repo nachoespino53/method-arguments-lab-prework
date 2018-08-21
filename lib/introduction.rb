@@ -1,3 +1,3 @@
 def introduction(arg)
-puts "Hello $arg"
+puts "Hello #{arg}"
 end
